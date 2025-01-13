@@ -9,7 +9,7 @@
  * natural language processing - rating prediction (Naive Bayes Classifier & BERT transformer)
     - Dataset: [Trip_advisor_hotel_review](https://raw.githubusercontent.com/dsfb2/dsfb2-2024/main/assignment_3/data/tripadvisor_hotel_reviews.csv)
  * explainable AI (SHAP)
-    - Dataset1:[Housing price prediction(Kaggle)](https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data/data)
+    * Dataset1:[Housing price prediction(Kaggle)](https://www.kaggle.com/datasets/muhammadbinimran/housing-price-prediction-data/data)
     - 
     - Dataset2:[FashionMNIST](https://github.com/zalandoresearch/fashion-mnist)
     - 
